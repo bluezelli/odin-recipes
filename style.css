@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(220, 223, 241);
+    font-size: 25px;
+}
+
+
+.content img{
+    width: 150px;
+    height: 150px;
+}
+
+p,ul,ol{
+    width: 600px;
+}
+h3.section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
